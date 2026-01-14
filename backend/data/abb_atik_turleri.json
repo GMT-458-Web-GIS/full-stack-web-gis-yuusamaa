@@ -1,0 +1,17 @@
+[
+  { "id": 33, "name": "1. Sınıf Atık Getirme", "category": "class1_waste_dropoff" },
+  { "id": 26, "name": "Ahşap Atığı", "category": "wood_waste" },
+  { "id": 22, "name": "Atık Bitkisel Yağ", "category": "waste_oil" },
+  { "id": 3,  "name": "Atık Cam", "category": "waste_glass" },
+  { "id": 23, "name": "Atık Elektronik", "category": "waste_electronic" },
+  { "id": 31, "name": "Atık Getirme Merkezleri", "category": "recycling_center" },
+  { "id": 25, "name": "Atık İlaç", "category": "waste_medicine" },
+  { "id": 1,  "name": "Atık Kağıt", "category": "waste_paper" },
+  { "id": 2,  "name": "Atık Metal", "category": "waste_metal" },
+  { "id": 24, "name": "Atık Pil", "category": "waste_battery" },
+  { "id": 29, "name": "Kompozit Atık", "category": "composite_waste" },
+  { "id": 27, "name": "Organik Atık", "category": "organic_waste" },
+  { "id": 32, "name": "Tehlikeli Atık", "category": "hazardous_waste" },
+  { "id": 30, "name": "Tekstil Atığı", "category": "textile_waste" },
+  { "id": 28, "name": "Tıbbi Atık", "category": "medical_waste" }
+]

@@ -1,0 +1,46 @@
+:root {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: #111827;
+  background: #ffffff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ✅ Leaflet için height zinciri şart */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* ❌ Vite default flex-center'ı kaldırıyoruz */
+body {
+  display: block;
+  min-width: 320px;
+}
+
+/* linkler */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* buton defaultları çok karışmasın */
+button {
+  font-family: inherit;
+}
+
+/* ✅ Leaflet container fix */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+}

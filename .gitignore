@@ -1,0 +1,29 @@
+# secrets
+.env
+.env.*
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# build
+dist/
+build/
+
+# data (ham dosyalar büyük + gereksiz olabilir)
+backend/data/raw/
+.env
+backend/.env
+backend/uploads/
+uploads/
+node_modules/
